@@ -1,0 +1,12 @@
+{
+  "name": "max-keyboard",
+  "version": "1.6.0",
+  "description": "Max Keyboard - Accessible Fullscreen Bilingual System Keyboard for Amazfit Bip Max",
+  "scripts": {
+    "preview": "zeus preview",
+    "build": "zeus build"
+  },
+  "devDependencies": {
+    "@zeppos/device-types": "^1.0.0"
+  }
+}
